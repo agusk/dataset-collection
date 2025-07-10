@@ -1,0 +1,13 @@
+Month,Revenue,MarketingSpend,Discount,Season
+Jan,12000,1000,0.1,Winter
+Feb,15000,1500,0.15,Winter
+Mar,18000,2000,0.12,Spring
+Apr,20000,2500,0.1,Spring
+May,21000,2700,0.08,Spring
+Jun,25000,3000,0.07,Summer
+Jul,27000,3500,0.05,Summer
+Aug,26000,3300,0.06,Summer
+Sep,24000,3100,0.09,Fall
+Oct,23000,2800,0.11,Fall
+Nov,19000,2200,0.13,Fall
+Dec,16000,1800,0.14,Winter
